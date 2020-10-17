@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-blog-post-js","path":"/third-post","result":{"data":{"markdownRemark":{"html":"<p>Pour me a drink</p>","frontmatter":{"title":"My third post"}}},"pageContext":{"pathSlug":"/third-post","prev":{"frontmatter":{"path":"/second-post","title":"My second post","tags":["this"]}},"next":null}},"staticQueryHashes":[]}

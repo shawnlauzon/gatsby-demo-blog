@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-blog-post-js","path":"/first-post","result":{"data":{"markdownRemark":{"html":"<p>Wow I can write a blog!</p>","frontmatter":{"title":"My first post"}}},"pageContext":{"pathSlug":"/first-post","prev":null,"next":{"frontmatter":{"path":"/second-post","title":"My second post","tags":["this"]}}}},"staticQueryHashes":[]}
